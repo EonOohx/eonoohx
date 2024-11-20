@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hola, soy Raúl Alejandro 👋🏽
+### Desarrollo Móvil Android ![Android](https://img.shields.io/badge/-_-34A853?logo=android&logoColor=white)
 
+Titulado de Ingeniería en Sistemas Computacionales del Tecnológico de México, Campus Túxtla Gutiérrez en 2024.
+
+## Tecnologías
+![Android](https://img.shields.io/badge/_-android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+![Android Studio](https://img.shields.io/badge/_-android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)
+</br>
+![Kotlin](https://img.shields.io/badge/_-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/_-java-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+</br>
+![Jetpack Compose](https://img.shields.io/badge/_-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)
+![XML](https://img.shields.io/badge/_xml-005FAD?style=for-the-badge&logo=xml&logoColor=white&labelColor=101010)
 <!--
 **EonOohx/eonoohx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
