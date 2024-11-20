@@ -1,10 +1,10 @@
 # Hola, soy Raúl Alejandro 👋🏽
-### Programador Móvil Android ![Android](https://img.shields.io/badge/-_-34A853?logo=android&logoColor=white)
+## Programador Móvil Android ![Android](https://img.shields.io/badge/-_-34A853?logo=android&logoColor=white)
 
-## Estudios
+### Estudios
 Titulado de Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en 2024.
 
-## Tecnologías
+### Tecnologías
 ![Android](https://img.shields.io/badge/_-android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 ![Android Studio](https://img.shields.io/badge/_-android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)
 </br>
