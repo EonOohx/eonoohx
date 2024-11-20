@@ -1,7 +1,7 @@
 # Hola, soy Raúl Alejandro 👋🏽
 ### Desarrollo Móvil Android ![Android](https://img.shields.io/badge/-_-34A853?logo=android&logoColor=white)
 
-Titulado de Ingeniería en Sistemas Computacionales del Tecnológico de México, Campus Túxtla Gutiérrez en 2024.
+Titulado de Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en 2024.
 
 ## Tecnologías
 ![Android](https://img.shields.io/badge/_-android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
