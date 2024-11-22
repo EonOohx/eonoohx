@@ -9,7 +9,8 @@ Titulado de Ingeniería en Sistemas Computacionales del Tecnológico Nacional de
 ![Android Studio](https://img.shields.io/badge/_-android_studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=101010)
 </br>
 ![Kotlin](https://img.shields.io/badge/_-kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/_-java-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/_-java-b07219?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 </br>
 ![Jetpack Compose](https://img.shields.io/badge/_-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)
 ![XML](https://img.shields.io/badge/_xml-005FAD?style=for-the-badge&logo=xml&logoColor=white&labelColor=101010)
