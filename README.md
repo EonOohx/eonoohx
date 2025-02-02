@@ -1,7 +1,7 @@
 # Hola, soy Raúl Alejandro 👋🏽
 
 ## Estudios
-Titulado de Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en 2024.
+Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en 2024.
 
 ## Tecnologías
 ![Android](https://img.shields.io/badge/_-android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
