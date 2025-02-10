@@ -12,7 +12,7 @@ Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Ca
 ![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 </br>
 ![Jetpack Compose](https://img.shields.io/badge/_-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)
-![XML](https://img.shields.io/badge/_xml-005FAD?style=for-the-badge&logo=xml&logoColor=white&labelColor=101010)
+<!-- ![XML](https://img.shields.io/badge/_xml-005FAD?style=for-the-badge&logo=xml&logoColor=white&labelColor=101010)
 <!--
 **EonOohx/eonoohx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
