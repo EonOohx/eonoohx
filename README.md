@@ -1,7 +1,7 @@
 # Hola, soy Raúl Alejandro 👋🏽
 Recién titulado con conocimientos en desarrollo de aplicaciones móviles Android. Actualmente ampliando mis habilidades y buscando oportunidades para colaborar en proyectos que me permitan crecer profesionalmente.
 ## Estudios
-Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en 2024.
+Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en Octubre del 2024.
 
 ## Tecnologías
 ![Android](https://img.shields.io/badge/_-android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
