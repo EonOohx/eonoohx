@@ -1,5 +1,5 @@
 # Hola, soy Raúl Alejandro 👋🏽
-Recién titulado con conocimientos en desarrollo de aplicaciones móviles Android. Actualmente ampliando mis habilidades y buscando oportunidades para colaborar en proyectos que me permitan crecer profesionalmente.
+Titulado con conocimientos en desarrollo de aplicaciones móviles Android. Actualmente ampliando mis habilidades y buscando oportunidades para colaborar en proyectos que me permitan crecer profesionalmente.
 ## Estudios
 Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en Octubre del 2024.
 
