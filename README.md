@@ -18,7 +18,7 @@ Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Ca
 
 ## Certificados
 <p align="center">
-  <a href="https://www.credly.com/badges/abcdef123456">
+  <a href="https://www.credly.com/badges/6f6e947c-f689-4fb5-8617-2395185820ac/public_url">
     <img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="140" alt="Introduction to Data Science"/>
   </a>
 </p>
