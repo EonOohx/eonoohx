@@ -16,9 +16,14 @@ Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Ca
 - Durante mi servicio social y estancias profesionales desarrollé proyectos de visión por computadora enfocados en la detección de frutos, orientados a reducir mermas agrícolas. 
 - Participé en un evento de innovación tecnológica con un equipo multidisciplinario en la categoría Agroalimentaria, obteniendo el primer lugar en la etapa local.
 
+👨‍💻 [Google Developer Profile](https://g.dev/EonOohx)
+
 ## Certificados
 <p align="center">
   <a href="https://www.credly.com/badges/6f6e947c-f689-4fb5-8617-2395185820ac/public_url">
     <img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="140" alt="Introduction to Data Science"/>
+  </a>
+  <a href="https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-5-pathway-1">
+    <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-compose-unit-5-pathway-1/badge.svg" width="140" alt=" Get data from the internet"/>
   </a>
 </p>
