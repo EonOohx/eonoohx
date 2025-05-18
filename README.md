@@ -1,7 +1,5 @@
 # Hola, soy Raúl Alejandro 👋🏽
-Titulado con conocimientos en desarrollo de aplicaciones móviles Android. Actualmente ampliando mis habilidades y buscando oportunidades para colaborar en proyectos que me permitan crecer profesionalmente.
-## Estudios
-Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en Octubre del 2024.
+Desarrollador de Software Junior, especializado en aplicaciones móviles Android. Actualmente ampliando mis habilidades y buscando oportunidades para colaborar en proyectos que me permitan crecer profesionalmente.
 
 ## Tecnologías
 ![Android](https://img.shields.io/badge/_-android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
@@ -12,3 +10,15 @@ Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Ca
 ![Python](https://img.shields.io/badge/_-python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 </br>
 ![Jetpack Compose](https://img.shields.io/badge/_-Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=101010)
+
+## Estudios
+Ingeniería en Sistemas Computacionales del Tecnológico Nacional de México, Campus Túxtla Gutiérrez en Octubre del 2024.
+- Durante mi servicio social y estancias profesionales desarrollé proyectos de visión por computadora enfocados en la detección de frutos, orientados a reducir mermas agrícolas. 
+- Participé en un evento de innovación tecnológica con un equipo multidisciplinario en la categoría Agroalimentaria, obteniendo el primer lugar en la etapa local.
+
+## Certificados
+<p align="center">
+  <a href="https://www.credly.com/badges/abcdef123456">
+    <img src="https://images.credly.com/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" width="140" alt="Introduction to Data Science"/>
+  </a>
+</p>
